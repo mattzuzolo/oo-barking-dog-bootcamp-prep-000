@@ -1,6 +1,9 @@
 # Your code goes here!
 
-class Dog 
+class Dog
+  
+  def name (name)
+    
   
   # def initialize (name)
   #   @name = name
