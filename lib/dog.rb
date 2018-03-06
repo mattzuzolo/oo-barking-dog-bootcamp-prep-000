@@ -22,7 +22,3 @@ class Dog
   end  
   
 end
-
- def name (name)
-    name = Dog.new
-  end  
